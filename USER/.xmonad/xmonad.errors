@@ -1,0 +1,7 @@
+
+xmonad.hs:375:32: warning: [-Wtabs]
+    Tab character found here, and in 7 further locations.
+    Please use spaces instead.
+    |
+375 |      , className =? "alacritty"       --> doFloat
+    |                                ^
